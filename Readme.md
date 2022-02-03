@@ -1,1 +1,1 @@
-#Custom code generator that works with dotnet aspnet-codegenerator
+# Custom code generator that works with dotnet aspnet-codegenerator
